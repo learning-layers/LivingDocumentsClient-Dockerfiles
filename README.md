@@ -1,2 +1,2 @@
-# livingdocumentsclient-Dockerfiles
-Dockerfiles or the client of LivingDocuments.
+# LivingDocumentsClient-Dockerfiles
+Dockerfiles for the client of LivingDocuments.
